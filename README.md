@@ -1,6 +1,6 @@
 # JavaScript Training
 
-1. ES6 syntax; variables, functions, mutable data, destructuring etc.
+## 1. ES6 syntax; variables, functions, mutable data, destructuring etc.
   * Strict mode
   * let and const
   * spread and rest
