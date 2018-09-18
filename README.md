@@ -17,15 +17,15 @@
   * generators and the yield keyword
   * modules
   * classes
-2. Scope and closure.
-3. Modules.
+## 2. Scope and closure.
+## 3. Modules.
   * import export 
   * named exports 
   * default exports
   * aliased exports
   * aliased imports
-4. Functional programming, async/await & callbacks.
-5. ES6 & React.
-6. Codesplitting as standard.
-7. Developer tools.
-8. JavaScript and the browser.
+## 4. Functional programming, async/await & callbacks.
+## 5. ES6 & React.
+## 6. Codesplitting as standard.
+## 7. Developer tools.
+## 8. JavaScript and the browser.
