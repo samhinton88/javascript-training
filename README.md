@@ -54,6 +54,9 @@
 ## 5. ES6 & React.
 ## 6. Codesplitting as standard.
   * React Loadable
+  * import()
   * Webpack
+    * entry points
+    * dynamic imports
 ## 7. Developer tools.
 ## 8. JavaScript and the browser.
